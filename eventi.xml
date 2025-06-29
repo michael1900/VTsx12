@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="F1KidsAustriaSeason1Episode9Live">
+    <display-name>F1 Kids Austria Season 1, Episode 9 • Live</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="F1KidsAustriaSeason1Episode9Live">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">F1 Kids Austria Season 1, Episode 9 • Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="F1KidsAustriaSeason1Episode9Live">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">F1 Kids Austria Season 1, Episode 9 • Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="2025PrideMarchLive">
+    <display-name>2025 Pride March Live</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="2025PrideMarchLive">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">2025 Pride March Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="2025PrideMarchLive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Pride March Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="2025PrideMarchLive">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">2025 Pride March Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="2025PrideMarchLive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Pride March Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="OT7FootballLive">
+    <display-name>OT7 Football Live</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="OT7FootballLive">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">OT7 Football Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="OT7FootballLive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">OT7 Football Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="HouseHuntersInternationalSeason165Episode11">
+    <display-name>House Hunters International Season 165, Episode 11</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="HouseHuntersInternationalSeason165Episode11">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">House Hunters International Season 165, Episode 11.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="HouseHuntersInternationalSeason165Episode11">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">House Hunters International Season 165, Episode 11</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="MajorLeaguePickleballLive">
+    <display-name>Major League Pickleball Live</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629223000 +0200" channel="MajorLeaguePickleballLive">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">Major League Pickleball Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629223000 +0200" stop="20250630003000 +0200" channel="MajorLeaguePickleballLive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Major League Pickleball Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630020000 +0200" channel="MajorLeaguePickleballLive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Major League Pickleball Live</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="NakedandAfraidLastOneStandingSeason3Episode6">
+    <display-name>Naked and Afraid: Last One Standing Season 3, Episode 6</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630020000 +0200" channel="NakedandAfraidLastOneStandingSeason3Episode6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Naked and Afraid: Last One Standing Season 3, Episode 6</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="MissUniverseLatinaelrealitySeason1Episode23">
+    <display-name>Miss Universe Latina, el reality Season 1, Episode 23</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="MissUniverseLatinaelrealitySeason1Episode23">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Miss Universe Latina, el reality Season 1, Episode 23.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="MissUniverseLatinaelrealitySeason1Episode23">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Miss Universe Latina, el reality Season 1, Episode 23</desc>
+    <category lang="it">TV Shows</category>
+  </programme>
+  <channel id="UruguayPrimeraDivisionJuventudvsProgreso">
+    <display-name>Uruguay - Primera Division : Juventud vs Progreso</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629173000 +0200" channel="UruguayPrimeraDivisionJuventudvsProgreso">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">Uruguay - Primera Division : Juventud vs Progreso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629173000 +0200" stop="20250629193000 +0200" channel="UruguayPrimeraDivisionJuventudvsProgreso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Uruguay - Primera Division : Juventud vs Progreso</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupPSGvsInterMiami">
+    <display-name>FIFA Club World Cup : PSG vs Inter Miami</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WomensFriendlyEnglandvsJamaica">
+    <display-name>Women's Friendly : England vs Jamaica</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="WomensFriendlyEnglandvsJamaica">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Women's Friendly : England vs Jamaica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="WomensFriendlyEnglandvsJamaica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : England vs Jamaica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="WomensFriendlyEnglandvsJamaica">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Women's Friendly : England vs Jamaica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="WomensFriendlyEnglandvsJamaica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : England vs Jamaica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UruguayPrimeraDivisionRacingvsTorque">
+    <display-name>Uruguay - Primera Division : Racing vs Torque</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="UruguayPrimeraDivisionRacingvsTorque">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Uruguay - Primera Division : Racing vs Torque.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="UruguayPrimeraDivisionRacingvsTorque">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Uruguay - Primera Division : Racing vs Torque</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WomensFriendlyUSAvsRepublicofIreland">
+    <display-name>Women's Friendly : USA vs Republic of Ireland</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="WomensFriendlyUSAvsRepublicofIreland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : USA vs Republic of Ireland</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <display-name>FIFA Club World Cup : Flamengo vs Bayern München</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="FIFAClubWorldCupFlamengovsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="CONCACAFGoldCupCanadavsGuatemala">
+    <display-name>CONCACAF Gold Cup : Canada vs Guatemala</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="CONCACAFGoldCupCanadavsGuatemala">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : Canada vs Guatemala</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UruguayPrimeraDivisionNacionalvsDanubio">
+    <display-name>Uruguay - Primera Division : Nacional vs Danubio</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629230000 +0200" channel="UruguayPrimeraDivisionNacionalvsDanubio">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">Uruguay - Primera Division : Nacional vs Danubio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629230000 +0200" stop="20250630010000 +0200" channel="UruguayPrimeraDivisionNacionalvsDanubio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Uruguay - Primera Division : Nacional vs Danubio</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="CONCACAFGoldCupUSAvsCostaRica">
+    <display-name>CONCACAF Gold Cup : USA vs Costa Rica</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="CONCACAFGoldCupUSAvsCostaRica">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="1stTestDay5WestIndiesvsAustralia">
+    <display-name>1st Test | Day 5 : West Indies vs Australia</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629160000 +0200" channel="1stTestDay5WestIndiesvsAustralia">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">1st Test | Day 5 : West Indies vs Australia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629160000 +0200" stop="20250629180000 +0200" channel="1stTestDay5WestIndiesvsAustralia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">1st Test | Day 5 : West Indies vs Australia</desc>
+    <category lang="it">Cricket</category>
+  </programme>
+  <channel id="MajorLeaguePickleballMLPSanClementeCALive">
+    <display-name>Major League Pickleball MLP San Clemente, CA Live</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="MajorLeaguePickleballMLPSanClementeCALive">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Major League Pickleball MLP San Clemente, CA Live.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="MajorLeaguePickleballMLPSanClementeCALive">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Major League Pickleball MLP San Clemente, CA Live</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WRCRallyGreeceSpecialStage17">
+    <display-name>WRC Rally Greece | Special Stage 17</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629131500 +0200" channel="WRCRallyGreeceSpecialStage17">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">WRC Rally Greece | Special Stage 17.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629131500 +0200" stop="20250629151500 +0200" channel="WRCRallyGreeceSpecialStage17">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WRC Rally Greece | Special Stage 17</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MSCCruisesAustrianGPGrandPrixSunday">
+    <display-name>Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPDutchGrandPrixRace">
+    <display-name>MotoGP : Dutch Grand Prix Race</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MSCCruisesAustrianGPRace">
+    <display-name>Formula 1 : MSC Cruises Austrian GP - Race</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="ProMotocrossChampionshipSouthwickNational">
+    <display-name>Pro Motocross Championship Southwick National</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="ProMotocrossChampionshipSouthwickNational">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Pro Motocross Championship Southwick National.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="ProMotocrossChampionshipSouthwickNational">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Pro Motocross Championship Southwick National</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="NHRADragRacingSummitRacingEquipmentNationals">
+    <display-name>NHRA Drag Racing Summit Racing Equipment Nationals</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="NHRADragRacingSummitRacingEquipmentNationals">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NHRA Drag Racing Summit Racing Equipment Nationals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="NHRADragRacingSummitRacingEquipmentNationals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NHRA Drag Racing Summit Racing Equipment Nationals</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="NHRADragRacingSummitRacingEquipmentNationals">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">NHRA Drag Racing Summit Racing Equipment Nationals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="NHRADragRacingSummitRacingEquipmentNationals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NHRA Drag Racing Summit Racing Equipment Nationals</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="NASCARSprintCupSeriesAtlantaMotorSpeedway">
+    <display-name>NASCAR Sprint Cup Series Atlanta Motor Speedway</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629230000 +0200" channel="NASCARSprintCupSeriesAtlantaMotorSpeedway">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">NASCAR Sprint Cup Series Atlanta Motor Speedway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629230000 +0200" stop="20250630010000 +0200" channel="NASCARSprintCupSeriesAtlantaMotorSpeedway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">NASCAR Sprint Cup Series Atlanta Motor Speedway</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="DPWorldTourItalianOpen">
+    <display-name>DP World Tour Italian Open</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629123000 +0200" channel="DPWorldTourItalianOpen">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">DP World Tour Italian Open.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629123000 +0200" stop="20250629143000 +0200" channel="DPWorldTourItalianOpen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">DP World Tour Italian Open</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629123000 +0200" channel="DPWorldTourItalianOpen">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">DP World Tour Italian Open.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629123000 +0200" stop="20250629143000 +0200" channel="DPWorldTourItalianOpen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">DP World Tour Italian Open</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="LadiesEuropeanTourArmundiGermanMasters">
+    <display-name>Ladies European Tour Armundi German Masters</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629130000 +0200" channel="LadiesEuropeanTourArmundiGermanMasters">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Ladies European Tour Armundi German Masters.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629130000 +0200" stop="20250629150000 +0200" channel="LadiesEuropeanTourArmundiGermanMasters">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ladies European Tour Armundi German Masters</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="PGATourRocketMortgageClassic">
+    <display-name>PGA Tour Rocket Mortgage Classic</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="PGATourRocketMortgageClassic">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">PGA Tour Rocket Mortgage Classic.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="PGATourRocketMortgageClassic">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Rocket Mortgage Classic</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="PGATourRocketMortgageClassic">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">PGA Tour Rocket Mortgage Classic.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="PGATourRocketMortgageClassic">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Rocket Mortgage Classic</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="LIVGolfDallasDay3">
+    <display-name>LIV Golf Dallas - Day 3</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="LIVGolfDallasDay3">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">LIV Golf Dallas - Day 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="LIVGolfDallasDay3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">LIV Golf Dallas - Day 3</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="2025USSeniorOpenChampionshipFinalRound">
+    <display-name>2025 U.S. Senior Open Championship Final Round</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="2025USSeniorOpenChampionshipFinalRound">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">2025 U.S. Senior Open Championship Final Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="2025USSeniorOpenChampionshipFinalRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 U.S. Senior Open Championship Final Round</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="2025USSeniorOpenChampionshipFinalRound">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">2025 U.S. Senior Open Championship Final Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="2025USSeniorOpenChampionshipFinalRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 U.S. Senior Open Championship Final Round</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="LPGATourDowChampionship">
+    <display-name>LPGA Tour Dow Championship</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="LPGATourDowChampionship">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">LPGA Tour Dow Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="LPGATourDowChampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">LPGA Tour Dow Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="LPGATourDowChampionship">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">LPGA Tour Dow Championship.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="LPGATourDowChampionship">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">LPGA Tour Dow Championship</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="PGATourGolfRocketClassicFinalRound">
+    <display-name>PGA Tour Golf Rocket Classic, Final Round</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="PGATourGolfRocketClassicFinalRound">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">PGA Tour Golf Rocket Classic, Final Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="PGATourGolfRocketClassicFinalRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Golf Rocket Classic, Final Round</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="PGATourGolfRocketClassicFinalRound">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">PGA Tour Golf Rocket Classic, Final Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="PGATourGolfRocketClassicFinalRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">PGA Tour Golf Rocket Classic, Final Round</desc>
+    <category lang="it">Golf</category>
+  </programme>
+  <channel id="MLBPittsburghPiratesvsNewYorkMets">
+    <display-name>MLB : Pittsburgh Pirates vs New York Mets</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBPittsburghPiratesvsNewYorkMets">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Pittsburgh Pirates vs New York Mets.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBPittsburghPiratesvsNewYorkMets">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Pittsburgh Pirates vs New York Mets</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBPittsburghPiratesvsNewYorkMets">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Pittsburgh Pirates vs New York Mets.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBPittsburghPiratesvsNewYorkMets">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Pittsburgh Pirates vs New York Mets</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBNewYorkYankeesvsOaklandAthletics">
+    <display-name>MLB : New York Yankees vs Oakland Athletics</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBNewYorkYankeesvsOaklandAthletics">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : New York Yankees vs Oakland Athletics.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBNewYorkYankeesvsOaklandAthletics">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : New York Yankees vs Oakland Athletics</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBNewYorkYankeesvsOaklandAthletics">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : New York Yankees vs Oakland Athletics.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBNewYorkYankeesvsOaklandAthletics">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : New York Yankees vs Oakland Athletics</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBAtlantaBravesvsPhiladelphiaPhillies">
+    <display-name>MLB : Atlanta Braves vs Philadelphia Phillies</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBAtlantaBravesvsPhiladelphiaPhillies">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Atlanta Braves vs Philadelphia Phillies.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBAtlantaBravesvsPhiladelphiaPhillies">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Atlanta Braves vs Philadelphia Phillies</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBAtlantaBravesvsPhiladelphiaPhillies">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Atlanta Braves vs Philadelphia Phillies.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBAtlantaBravesvsPhiladelphiaPhillies">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Atlanta Braves vs Philadelphia Phillies</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBBaltimoreOriolesvsTampaBayRays">
+    <display-name>MLB : Baltimore Orioles vs Tampa Bay Rays</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBBaltimoreOriolesvsTampaBayRays">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Baltimore Orioles vs Tampa Bay Rays.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBBaltimoreOriolesvsTampaBayRays">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Baltimore Orioles vs Tampa Bay Rays</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBBostonRedSoxvsTorontoBlueJays">
+    <display-name>MLB : Boston Red Sox vs Toronto Blue Jays</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193500 +0200" channel="MLBBostonRedSoxvsTorontoBlueJays">
+    <title lang="it">Inizia alle 19:35.</title>
+    <desc lang="it">MLB : Boston Red Sox vs Toronto Blue Jays.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193500 +0200" stop="20250629213500 +0200" channel="MLBBostonRedSoxvsTorontoBlueJays">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Boston Red Sox vs Toronto Blue Jays</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBHoustonAstrosvsChicagoCubs">
+    <display-name>MLB : Houston Astros vs Chicago Cubs</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629201000 +0200" channel="MLBHoustonAstrosvsChicagoCubs">
+    <title lang="it">Inizia alle 20:10.</title>
+    <desc lang="it">MLB : Houston Astros vs Chicago Cubs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629201000 +0200" stop="20250629221000 +0200" channel="MLBHoustonAstrosvsChicagoCubs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Houston Astros vs Chicago Cubs</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBKansasCityRoyalsvsLosAngelesDodgers">
+    <display-name>MLB : Kansas City Royals vs Los Angeles Dodgers</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629201000 +0200" channel="MLBKansasCityRoyalsvsLosAngelesDodgers">
+    <title lang="it">Inizia alle 20:10.</title>
+    <desc lang="it">MLB : Kansas City Royals vs Los Angeles Dodgers.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629201000 +0200" stop="20250629221000 +0200" channel="MLBKansasCityRoyalsvsLosAngelesDodgers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Kansas City Royals vs Los Angeles Dodgers</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBChicagoWhiteSoxvsSanFranciscoGiants">
+    <display-name>MLB : Chicago White Sox vs San Francisco Giants</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629201000 +0200" channel="MLBChicagoWhiteSoxvsSanFranciscoGiants">
+    <title lang="it">Inizia alle 20:10.</title>
+    <desc lang="it">MLB : Chicago White Sox vs San Francisco Giants.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629201000 +0200" stop="20250629221000 +0200" channel="MLBChicagoWhiteSoxvsSanFranciscoGiants">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Chicago White Sox vs San Francisco Giants</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBTexasRangersvsSeattleMariners">
+    <display-name>MLB : Texas Rangers vs Seattle Mariners</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629203500 +0200" channel="MLBTexasRangersvsSeattleMariners">
+    <title lang="it">Inizia alle 20:35.</title>
+    <desc lang="it">MLB : Texas Rangers vs Seattle Mariners.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629203500 +0200" stop="20250629223500 +0200" channel="MLBTexasRangersvsSeattleMariners">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Texas Rangers vs Seattle Mariners</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBArizonaDiamondbacksvsMiamiMarlins">
+    <display-name>MLB : Arizona Diamondbacks vs Miami Marlins</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629221000 +0200" channel="MLBArizonaDiamondbacksvsMiamiMarlins">
+    <title lang="it">Inizia alle 22:10.</title>
+    <desc lang="it">MLB : Arizona Diamondbacks vs Miami Marlins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629221000 +0200" stop="20250630001000 +0200" channel="MLBArizonaDiamondbacksvsMiamiMarlins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Arizona Diamondbacks vs Miami Marlins</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="MLBDetroitTigersvsMinnesotaTwins">
+    <display-name>MLB : Detroit Tigers vs Minnesota Twins</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="MLBDetroitTigersvsMinnesotaTwins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Detroit Tigers vs Minnesota Twins</desc>
+    <category lang="it">Baseball</category>
+  </programme>
+  <channel id="BIG33x3HoustonRigHandsvsLARiot">
+    <display-name>BIG3 (3x3) : Houston Rig Hands vs LA Riot</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="BIG33x3HoustonRigHandsvsLARiot">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">BIG3 (3x3) : Houston Rig Hands vs LA Riot.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="BIG33x3HoustonRigHandsvsLARiot">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">BIG3 (3x3) : Houston Rig Hands vs LA Riot</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="EuropeanChampionshipWFinalSpainWvsBelgiumW">
+    <display-name>European Championship (W) Final : Spain W vs Belgium W</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629193000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193000 +0200" stop="20250629213000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629193000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629193000 +0200" stop="20250629213000 +0200" channel="EuropeanChampionshipWFinalSpainWvsBelgiumW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championship (W) Final : Spain W vs Belgium W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="BIG3BasketballMiami305vsBostonBallHogs">
+    <display-name>BIG3 Basketball : Miami 305 vs Boston Ball Hogs</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="BIG3BasketballMiami305vsBostonBallHogs">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">BIG3 Basketball : Miami 305 vs Boston Ball Hogs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="BIG3BasketballMiami305vsBostonBallHogs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">BIG3 Basketball : Miami 305 vs Boston Ball Hogs</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629200000 +0200" channel="BIG3BasketballMiami305vsBostonBallHogs">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">BIG3 Basketball : Miami 305 vs Boston Ball Hogs.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629200000 +0200" stop="20250629220000 +0200" channel="BIG3BasketballMiami305vsBostonBallHogs">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">BIG3 Basketball : Miami 305 vs Boston Ball Hogs</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WNBANewYorkLibertyWvsAtlantaDreamW">
+    <display-name>WNBA : New York Liberty W vs Atlanta Dream W</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629210000 +0200" channel="WNBANewYorkLibertyWvsAtlantaDreamW">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">WNBA : New York Liberty W vs Atlanta Dream W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629210000 +0200" stop="20250629230000 +0200" channel="WNBANewYorkLibertyWvsAtlantaDreamW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WNBA : New York Liberty W vs Atlanta Dream W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="BIG3BasketballDallasPowervsDetroitAmplifiers">
+    <display-name>BIG3 Basketball : Dallas Power vs Detroit Amplifiers</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629213000 +0200" channel="BIG3BasketballDallasPowervsDetroitAmplifiers">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">BIG3 Basketball : Dallas Power vs Detroit Amplifiers.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629213000 +0200" stop="20250629233000 +0200" channel="BIG3BasketballDallasPowervsDetroitAmplifiers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">BIG3 Basketball : Dallas Power vs Detroit Amplifiers</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WNBALosAngelesSparksWvsChicagoSkyW">
+    <display-name>WNBA : Los Angeles Sparks W vs Chicago Sky W</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="WNBALosAngelesSparksWvsChicagoSkyW">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">WNBA : Los Angeles Sparks W vs Chicago Sky W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="WNBALosAngelesSparksWvsChicagoSkyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WNBA : Los Angeles Sparks W vs Chicago Sky W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629220000 +0200" channel="WNBALosAngelesSparksWvsChicagoSkyW">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">WNBA : Los Angeles Sparks W vs Chicago Sky W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629220000 +0200" stop="20250630000000 +0200" channel="WNBALosAngelesSparksWvsChicagoSkyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WNBA : Los Angeles Sparks W vs Chicago Sky W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WNBAPhoenixMercuryWvsLasVegasAcesW">
+    <display-name>WNBA : Phoenix Mercury W vs Las Vegas Aces W</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630020000 +0200" channel="WNBAPhoenixMercuryWvsLasVegasAcesW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WNBA : Phoenix Mercury W vs Las Vegas Aces W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WNBAMinnesotaLynxWvsConnecticutSunW">
+    <display-name>WNBA : Minnesota Lynx W vs Connecticut Sun W</display-name>
+  </channel>
+  <programme start="20250630000000 +0200" stop="20250630010000 +0200" channel="WNBAMinnesotaLynxWvsConnecticutSunW">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">WNBA : Minnesota Lynx W vs Connecticut Sun W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250630010000 +0200" stop="20250630030000 +0200" channel="WNBAMinnesotaLynxWvsConnecticutSunW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WNBA : Minnesota Lynx W vs Connecticut Sun W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WorldCupInnsbruckMensandWomensLeadFinal">
+    <display-name>World Cup | Innsbruck Men's and Women's Lead | Final</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629191500 +0200" channel="WorldCupInnsbruckMensandWomensLeadFinal">
+    <title lang="it">Inizia alle 19:15.</title>
+    <desc lang="it">World Cup | Innsbruck Men's and Women's Lead | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629191500 +0200" stop="20250629211500 +0200" channel="WorldCupInnsbruckMensandWomensLeadFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup | Innsbruck Men's and Women's Lead | Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629191500 +0200" channel="WorldCupInnsbruckMensandWomensLeadFinal">
+    <title lang="it">Inizia alle 19:15.</title>
+    <desc lang="it">World Cup | Innsbruck Men's and Women's Lead | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629191500 +0200" stop="20250629211500 +0200" channel="WorldCupInnsbruckMensandWomensLeadFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup | Innsbruck Men's and Women's Lead | Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
+    <display-name>French National Road Championships Men's Road Race | Les Herbiers (231km)</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629141500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629141500 +0200" stop="20250629161500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250629000000 +0200" stop="20250629141500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629141500 +0200" stop="20250629161500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="XGamesSaltLakeCity2025">
+    <display-name>X Games Salt Lake City 2025</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629190000 +0200" channel="XGamesSaltLakeCity2025">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">X Games Salt Lake City 2025.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629190000 +0200" stop="20250629210000 +0200" channel="XGamesSaltLakeCity2025">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">X Games Salt Lake City 2025</desc>
+    <category lang="it">Extreme sports</category>
+  </programme>
+  <channel id="LiveracingfromaroundtheUK">
+    <display-name>Live racing from around the UK</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="LiveracingfromaroundtheUK">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Live racing from around the UK.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="LiveracingfromaroundtheUK">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Live racing from around the UK</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <channel id="LiveracingfromCartmelandtheCurragh">
+    <display-name>Live racing from Cartmel and the Curragh</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629144500 +0200" channel="LiveracingfromCartmelandtheCurragh">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">Live racing from Cartmel and the Curragh.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629144500 +0200" stop="20250629164500 +0200" channel="LiveracingfromCartmelandtheCurragh">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Live racing from Cartmel and the Curragh</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <channel id="AmericasDayAttheRaces">
+    <display-name>America's Day At the Races</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="AmericasDayAttheRaces">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">America's Day At the Races.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="AmericasDayAttheRaces">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">America's Day At the Races</desc>
+    <category lang="it">Horse Racing</category>
+  </programme>
+  <channel id="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
+    <display-name>Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629170000 +0200" channel="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629170000 +0200" stop="20250629190000 +0200" channel="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder</desc>
+    <category lang="it">Netball</category>
+  </programme>
+  <channel id="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
+    <display-name>World Championship U20 : Australia U20 vs South Africa U20</display-name>
+  </channel>
+  <programme start="20250629000000 +0200" stop="20250629153000 +0200" channel="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">World Championship U20 : Australia U20 vs South Africa U20.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250629153000 +0200" stop="20250629173000 +0200" channel="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship U20 : Australia U20 vs South Africa U20</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+</tv>
