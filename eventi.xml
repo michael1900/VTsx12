@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="2025PrideMarchLive">
-    <display-name>2025 Pride March Live</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="2025PrideMarchLive">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">2025 Pride March Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="2025PrideMarchLive">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Pride March Live</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="2025PrideMarchLive">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">2025 Pride March Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="2025PrideMarchLive">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Pride March Live</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
   <channel id="OT7FootballLive">
     <display-name>OT7 Football Live</display-name>
   </channel>
@@ -87,95 +64,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Miss Universe Latina, el reality Season 1, Episode 23</desc>
     <category lang="it">TV Shows</category>
-  </programme>
-  <channel id="UruguayPrimeraDivisionJuventudvsProgreso">
-    <display-name>Uruguay - Primera Division : Juventud vs Progreso</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629173000 +0200" channel="UruguayPrimeraDivisionJuventudvsProgreso">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Uruguay - Primera Division : Juventud vs Progreso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629173000 +0200" stop="20250629193000 +0200" channel="UruguayPrimeraDivisionJuventudvsProgreso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Uruguay - Primera Division : Juventud vs Progreso</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="FIFAClubWorldCupPSGvsInterMiami">
-    <display-name>FIFA Club World Cup : PSG vs Inter Miami</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="FIFAClubWorldCupPSGvsInterMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA Club World Cup : PSG vs Inter Miami</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="WomensFriendlyEnglandvsJamaica">
-    <display-name>Women's Friendly : England vs Jamaica</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="WomensFriendlyEnglandvsJamaica">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Women's Friendly : England vs Jamaica.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="WomensFriendlyEnglandvsJamaica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Friendly : England vs Jamaica</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="WomensFriendlyEnglandvsJamaica">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Women's Friendly : England vs Jamaica.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="WomensFriendlyEnglandvsJamaica">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Friendly : England vs Jamaica</desc>
-    <category lang="it">Soccer</category>
   </programme>
   <channel id="UruguayPrimeraDivisionRacingvsTorque">
     <display-name>Uruguay - Primera Division : Racing vs Torque</display-name>
@@ -879,31 +767,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">X Games Salt Lake City 2025</desc>
     <category lang="it">Extreme sports</category>
-  </programme>
-  <channel id="AmericasDayAttheRaces">
-    <display-name>America's Day At the Races</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629180000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">America's Day At the Races.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629180000 +0200" stop="20250629200000 +0200" channel="AmericasDayAttheRaces">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">America's Day At the Races</desc>
-    <category lang="it">Horse Racing</category>
-  </programme>
-  <channel id="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
-    <display-name>Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629170000 +0200" channel="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629170000 +0200" stop="20250629190000 +0200" channel="NetballSuperleaguePreliminaryFinalLoughboroughLightningvsManchesterThunder">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder</desc>
-    <category lang="it">Netball</category>
   </programme>
 </tv>
