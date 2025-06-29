@@ -394,75 +394,6 @@
     <desc lang="it">Major League Pickleball MLP San Clemente, CA Live</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="WRCRallyGreeceSpecialStage17">
-    <display-name>WRC Rally Greece | Special Stage 17</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629131500 +0200" channel="WRCRallyGreeceSpecialStage17">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">WRC Rally Greece | Special Stage 17.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629131500 +0200" stop="20250629151500 +0200" channel="WRCRallyGreeceSpecialStage17">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WRC Rally Greece | Special Stage 17</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula1MSCCruisesAustrianGPGrandPrixSunday">
-    <display-name>Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="Formula1MSCCruisesAustrianGPGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPDutchGrandPrixRace">
-    <display-name>MotoGP : Dutch Grand Prix Race</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="MotoGPDutchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Dutch Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MSCCruisesAustrianGPRace">
     <display-name>Formula 1 : MSC Cruises Austrian GP - Race</display-name>
   </channel>
@@ -544,42 +475,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">NASCAR Sprint Cup Series Atlanta Motor Speedway</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="DPWorldTourItalianOpen">
-    <display-name>DP World Tour Italian Open</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629123000 +0200" channel="DPWorldTourItalianOpen">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">DP World Tour Italian Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629123000 +0200" stop="20250629143000 +0200" channel="DPWorldTourItalianOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Italian Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629123000 +0200" channel="DPWorldTourItalianOpen">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">DP World Tour Italian Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629123000 +0200" stop="20250629143000 +0200" channel="DPWorldTourItalianOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">DP World Tour Italian Open</desc>
-    <category lang="it">Golf</category>
-  </programme>
-  <channel id="LadiesEuropeanTourArmundiGermanMasters">
-    <display-name>Ladies European Tour Armundi German Masters</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629130000 +0200" channel="LadiesEuropeanTourArmundiGermanMasters">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Ladies European Tour Armundi German Masters.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629130000 +0200" stop="20250629150000 +0200" channel="LadiesEuropeanTourArmundiGermanMasters">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ladies European Tour Armundi German Masters</desc>
-    <category lang="it">Golf</category>
   </programme>
   <channel id="PGATourRocketMortgageClassic">
     <display-name>PGA Tour Rocket Mortgage Classic</display-name>
@@ -1066,19 +961,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">X Games Salt Lake City 2025</desc>
     <category lang="it">Extreme sports</category>
-  </programme>
-  <channel id="LiveracingfromaroundtheUK">
-    <display-name>Live racing from around the UK</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629140000 +0200" channel="LiveracingfromaroundtheUK">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Live racing from around the UK.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629140000 +0200" stop="20250629160000 +0200" channel="LiveracingfromaroundtheUK">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from around the UK</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <channel id="LiveracingfromCartmelandtheCurragh">
     <display-name>Live racing from Cartmel and the Curragh</display-name>
