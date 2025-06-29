@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="F1KidsAustriaSeason1Episode9Live">
-    <display-name>F1 Kids Austria Season 1, Episode 9 • Live</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="F1KidsAustriaSeason1Episode9Live">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">F1 Kids Austria Season 1, Episode 9 • Live.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="F1KidsAustriaSeason1Episode9Live">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 Kids Austria Season 1, Episode 9 • Live</desc>
-    <category lang="it">TV Shows</category>
-  </programme>
   <channel id="2025PrideMarchLive">
     <display-name>2025 Pride March Live</display-name>
   </channel>
@@ -368,19 +355,6 @@
     <desc lang="it">CONCACAF Gold Cup : USA vs Costa Rica</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="1stTestDay5WestIndiesvsAustralia">
-    <display-name>1st Test | Day 5 : West Indies vs Australia</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629160000 +0200" channel="1stTestDay5WestIndiesvsAustralia">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">1st Test | Day 5 : West Indies vs Australia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629160000 +0200" stop="20250629180000 +0200" channel="1stTestDay5WestIndiesvsAustralia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">1st Test | Day 5 : West Indies vs Australia</desc>
-    <category lang="it">Cricket</category>
-  </programme>
   <channel id="MajorLeaguePickleballMLPSanClementeCALive">
     <display-name>Major League Pickleball MLP San Clemente, CA Live</display-name>
   </channel>
@@ -393,39 +367,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Major League Pickleball MLP San Clemente, CA Live</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Formula1MSCCruisesAustrianGPRace">
-    <display-name>Formula 1 : MSC Cruises Austrian GP - Race</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629150000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629150000 +0200" stop="20250629170000 +0200" channel="Formula1MSCCruisesAustrianGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Austrian GP - Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="ProMotocrossChampionshipSouthwickNational">
     <display-name>Pro Motocross Championship Southwick National</display-name>
@@ -926,29 +867,6 @@
     <desc lang="it">World Cup | Innsbruck Men's and Women's Lead | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
-    <display-name>French National Road Championships Men's Road Race | Les Herbiers (231km)</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629141500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629141500 +0200" stop="20250629161500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250629000000 +0200" stop="20250629141500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629141500 +0200" stop="20250629161500 +0200" channel="FrenchNationalRoadChampionshipsMensRoadRaceLesHerbiers231km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">French National Road Championships Men's Road Race | Les Herbiers (231km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="XGamesSaltLakeCity2025">
     <display-name>X Games Salt Lake City 2025</display-name>
   </channel>
@@ -961,19 +879,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">X Games Salt Lake City 2025</desc>
     <category lang="it">Extreme sports</category>
-  </programme>
-  <channel id="LiveracingfromCartmelandtheCurragh">
-    <display-name>Live racing from Cartmel and the Curragh</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629144500 +0200" channel="LiveracingfromCartmelandtheCurragh">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">Live racing from Cartmel and the Curragh.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629144500 +0200" stop="20250629164500 +0200" channel="LiveracingfromCartmelandtheCurragh">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Live racing from Cartmel and the Curragh</desc>
-    <category lang="it">Horse Racing</category>
   </programme>
   <channel id="AmericasDayAttheRaces">
     <display-name>America's Day At the Races</display-name>
@@ -1000,18 +905,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder</desc>
     <category lang="it">Netball</category>
-  </programme>
-  <channel id="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
-    <display-name>World Championship U20 : Australia U20 vs South Africa U20</display-name>
-  </channel>
-  <programme start="20250629000000 +0200" stop="20250629153000 +0200" channel="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">World Championship U20 : Australia U20 vs South Africa U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250629153000 +0200" stop="20250629173000 +0200" channel="WorldChampionshipU20AustraliaU20vsSouthAfricaU20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship U20 : Australia U20 vs South Africa U20</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
 </tv>
